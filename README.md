@@ -8,4 +8,6 @@ I took on the challenge to refresh my CSS skills- layout, positioning and buildi
 
 ## LIVE URL
 
+https://huddle-landing-page-sigma-ten.vercel.app/
+
 🚀
